@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Just A Test! [editor on GitHub](https://github.com/yzhang88/zyq.github.io/edit/gh-pages/index.md)
+Just A Test! [editor on GitHub](https://google.com)
 
 ### Markdown
 
